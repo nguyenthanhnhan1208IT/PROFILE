@@ -7,7 +7,7 @@ Nguyễn Thành Nhân
 
 <!-- Ảnh đại diện & Giới thiệu -->
 <p align="center">
-  <img src="./avatar.jpg" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Nguyen Thanh Nhan" />
+  <img src="./github41.jpg" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Nguyen Thanh Nhan" />
 </p>
 
 <p align="center">
