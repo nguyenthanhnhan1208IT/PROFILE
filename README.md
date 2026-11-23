@@ -16,17 +16,4 @@ Nguyễn Thành Nhân
 - 🚀 **Current Project:** Building **TechStore** e-commerce web interface
 - 📫 **Contact me:** 0915128169
 
----
 
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://skillicons.dev" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://vercel.app"/>
-  <img height="180em" src="https://vercel.app"/>
-</p>
